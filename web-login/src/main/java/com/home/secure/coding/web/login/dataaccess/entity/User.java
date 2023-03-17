@@ -10,8 +10,8 @@ public interface User {
     void setUsername(String username);
     String getPassword();
     void setPassword(String password);
-    String getFirstname();
-    void setFirstname(String firstname);
+    String getName();
+    void setName(String name);
     String getSurname();
     void setSurname(String surname);
 }
